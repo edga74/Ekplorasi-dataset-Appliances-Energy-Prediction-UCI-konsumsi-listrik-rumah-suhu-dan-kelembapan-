@@ -27,5 +27,5 @@ jupyter notebook eda.ipynb
 Python, pandas, matplotlib, seaborn
 
 ## Penulis
-Edga - D3 Teknik Komputer, POLSRI
-Artikel Medium: [tambahkan link]
+Much Ridha - D3 Teknik Komputer, POLSRI
+Artikel Medium: https://medium.com/@lamanlaman165/kapan-rumah-paling-boros-listrik-eksplorasi-data-sensor-iot-dengan-python-e6d1088573a5?sharedUserId=lamanlaman165
